@@ -27,17 +27,20 @@ I'm a passionate Frontend Developer with over a year of experience in building r
   </a>
 </div>
 
-<div align="center">
-  <div align="left">
-  <a href="http://www.github.com/xmustafa5">
-    <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats"  />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start;">
+    <a href="http://www.github.com/xmustafa5">
+      <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats" />
+    </a>
+    <img src="https://i.pinimg.com/564x/68/8e/8e/688e8e78f549d4d75313c47b3781c4b5.jpg" alt="Additional Image" style="margin-top: 10px;" />
   </div>
-  <img src="https://i.pinimg.com/564x/68/8e/8e/688e8e78f549d4d75313c47b3781c4b5.jpg"/>
-  <a href="https://github.com/xmustafa5" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmustafa5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
+  <div style="flex: 1; display: flex; justify-content: flex-end;">
+    <a href="https://github.com/xmustafa5">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmustafa5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    </a>
+  </div>
 </div>
+
 
 
 
