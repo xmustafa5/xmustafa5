@@ -25,4 +25,4 @@ I'm a passionate Frontend Developer with over a year of experience in building r
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcranney&show_icons=true&theme=radical)
