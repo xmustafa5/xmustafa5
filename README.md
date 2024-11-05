@@ -29,8 +29,8 @@ I'm a passionate Frontend Developer with over a year of experience in building r
 
   <div align="center">
   <div align='right'>
-  <img align="left" src="https://i.pinimg.com/564x/37/59/dc/3759dcaf8faf143ca5bd33a010ff6775.jpg" width='1500px'/>
-  <img align="right" src="https://i.pinimg.com/564x/c8/12/60/c812600f2c0108fbc8b8db4f34a4d6be.jpg" width='1500px'/>
+  <img align="left" src="https://i.pinimg.com/564x/37/59/dc/3759dcaf8faf143ca5bd33a010ff6775.jpg" width='150px'/>
+  <img align="right" src="https://i.pinimg.com/564x/c8/12/60/c812600f2c0108fbc8b8db4f34a4d6be.jpg" width='150px'/>
   </div>
   <a href="http://www.github.com/xmustafa5">
     <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats"  />
