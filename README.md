@@ -27,7 +27,7 @@ I'm a passionate Frontend Developer with over a year of experience in building r
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; width: 100%;">
 
   <div style="display: flex; flex-direction: column; margin-top: 10px;">
     <a href="http://www.github.com/xmustafa5" style="padding-top: 10px;">
