@@ -27,7 +27,7 @@ I'm a passionate Frontend Developer with over a year of experience in building r
   </a>
 </div>
 
-<div style="display: flex;  justify-content: center; align-items: start; gap:10px ">
+<div style="display: flex;  justify-content: center; align-items: start; gap:10px; flex-direction:columns; ">
   <div style="margin-top: 10px;  display:flex; flex-direction: column">
   <a href="http://www.github.com/xmustafa5" style="padding-top: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats" style='width:100%' />
