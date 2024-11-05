@@ -31,14 +31,15 @@ I'm a passionate Frontend Developer with over a year of experience in building r
 
   <div style="display: flex; flex-direction: column; margin-top: 10px;">
     <a href="http://www.github.com/xmustafa5" style="padding-top: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats" style="width: 500px; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats" style="width: 300px; height: auto;" />
     </a>
-    <img src="https://i.pinimg.com/564x/68/8e/8e/688e8e78f549d4d75313c47b3781c4b5.jpg" style="width: 500px; height: auto; margin-top: 10px;" />
+    <img src="https://i.pinimg.com/564x/68/8e/8e/688e8e78f549d4d75313c47b3781c4b5.jpg" style="width: 300px; height: auto; margin-top: 10px;" />
   </div>
 
-  <div style="width: 200px;">
+  <div style="width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmustafa5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" style="width: 100%; margin-top: 20px;" />
   </div>
 
 </div>
+
 
