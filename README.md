@@ -26,7 +26,7 @@ I'm a passionate Frontend Developer with over a year of experience in building r
 ### 📊 Stats
 
 
-<a href="http://www.github.com/xmustafa5"><img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=9000de&text_color=9000de&icon_color=0891b2&bg_color=9000de&hide_border=true&show_icons=true" alt="xmustafa5's GitHub stats" /></a>
+<a href="http://www.github.com/xmustafa5"><img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xmustafa5's GitHub stats" /></a>
 
 <a href="http://www.github.com/xmustafa5">
   <img src="https://ghchart.rshah.org/0891b2/xmustafa5" alt="GitHub Commits Graph" />
