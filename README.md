@@ -36,9 +36,9 @@ I'm a passionate Frontend Developer with over a year of experience in building r
     <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats"  />
   </a>
     <img src="https://images5.alphacoders.com/131/thumb-1920-1315630.png" alt="Top Languages" width='50%' />
-  <a href="https://github.com/xmustafa5" align="right">
+<!--   <a href="https://github.com/xmustafa5" align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmustafa5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
+  </a> -->
   </div>
 
 
