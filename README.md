@@ -27,15 +27,15 @@ I'm a passionate Frontend Developer with over a year of experience in building r
   </a>
 </div>
 
-<div style="display: flex; background: red; justify-content: center; align-items: start; gap:10px ">
-  <div style="margin-top: 10px; background: blue; display:flex; flex-direction: column">
+<div style="display: flex;  justify-content: center; align-items: start; gap:10px ">
+  <div style="margin-top: 10px;  display:flex; flex-direction: column">
   <a href="http://www.github.com/xmustafa5" style="padding-top: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=xmustafa5&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="xmustafa5's GitHub stats" style='width:100%' />
   </a>
   <img src="https://i.pinimg.com/564x/68/8e/8e/688e8e78f549d4d75313c47b3781c4b5.jpg" style='width: 100%' />
 </div>
-<div style="display: flex; background: red; justify-content: center; align-items: center;  hight:100%; width:40% ">
+<div style="display: flex;  justify-content: center; align-items: center;  hight:100%; width:40% ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmustafa5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"  style='width:100%; margin-top: 20px; ' />
 </div>
-
 </div>
+
